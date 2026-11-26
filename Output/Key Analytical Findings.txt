@@ -1,0 +1,16 @@
+Key Analytical & Statistical Findings
+
+Logistics SLA Impact on Customer Satisfaction (Welch's T-Test & Mann-Whitney U):On-time deliveries average 4.29 stars ($n = 89,443$), whereas late deliveries drop to 2.27 stars ($n = 6,381$)—a -2.02 star rating collapse ($t = 100.74, p < 0.0001$).
+
+B2B Seller Acquisition Funnel (Two-Proportion Z-Test):Across 8,000 MQLs and 842 Closed-Won sellers (10.53% overall win rate), Paid Search converts at 12.30% vs. Organic Search at 11.80% (+4.17% relative lift). However, the difference is not statistically significant ($Z = 0.4636, p = 0.6429$), indicating opportunity to optimize Paid Search CAC.
+
+Experimental Design for Retention (Statistical Power Analysis):Lifting Olist's 3.0% baseline repeat purchase rate to 4.2% (+40% relative lift) via a post-delivery loyalty voucher requires 3,758 randomly assigned customers per variant (7,516 total) at 80% power ($\alpha = 0.05$).
+
+Revenue Leakage & Data Governance Audit:Identified R$ 269.74K in canceled/unavailable order leakage (~1,230 orders) while maintaining 98.99% average pipeline completeness.
+
+
+Executive Dashboard Preview (Power BI)
+Page 1 — Executive Command Center: Core GMV, AOV, Order Volume, SLA On-Time %, and Geographic Sales distribution.
+Page 2 — Retention & Seller Funnel: Monthly Cohort Retention Heatmap, RFM Customer Segments, and B2B Channel Conversion vs. Live Seller GMV.
+Page 3 — Data Health & Governance: Pipeline completeness trends and monthly canceled/unavailable revenue leakage tracking.
+(See powerbi/screenshots/ for high-resolution views and docs/ for the full Data Dictionary, SOP, and Executive Strategy Memo.)

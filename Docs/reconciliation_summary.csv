@@ -1,0 +1,9 @@
+order_status,total_orders,missing_items_count,missing_payment_count,amount_mismatch_count,total_collected_revenue
+delivered,96478,0,1,257,15422461.77
+shipped,1107,1,0,3,177213.96
+canceled,625,164,0,163,143255.6
+unavailable,609,603,0,603,126479.51
+invoiced,314,2,0,2,69137.99
+processing,301,0,0,0,69394.11
+created,5,5,0,5,688.1
+approved,2,0,0,0,241.08

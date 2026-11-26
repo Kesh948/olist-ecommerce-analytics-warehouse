@@ -1,0 +1,17 @@
+{
+  "name": "Olist Executive Analytics",
+  "dataColors": ["#1E3A8A", "#0D9488", "#F59E0B", "#EF4444", "#6366F1", "#10B981", "#64748B"],
+  "background": "#FFFFFF",
+  "foreground": "#111827",
+  "tableAccent": "#1E3A8A",
+  "visualStyles": {
+    "page": {
+      "*": {
+        "background": [{
+          "color": { "solid": { "color": "#F3F4F6" } },
+          "transparency": 0
+        }]
+      }
+    }
+  }
+}
